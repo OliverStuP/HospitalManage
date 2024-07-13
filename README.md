@@ -1,5 +1,5 @@
 # HospitalManage
-An hospital admin manager used to test my capabilities with C++.
+A hospital admin manager used to test my capabilities with C++.
 
 ## Instructions
 
